@@ -1,0 +1,12 @@
+
+#INICIAR PROYECTO NODE
+npm init -y
+
+npm install express-rate-limit
+npm install jsonwebtoken
+npm install express
+npm install mysql
+npm install axios
+
+#INSTALAR TODO 
+npm install
